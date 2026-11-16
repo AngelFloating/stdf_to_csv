@@ -1,0 +1,4 @@
+interface:
+  display_name: "STDF to CSV"
+  short_description: "批量将 STDF V4 测试文件逐一转换为独立 CSV"
+  default_prompt: "使用 $stdf-to-csv 将这些 STDF 文件批量转换为每个输入文件对应的 CSV。"
